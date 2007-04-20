@@ -5,7 +5,7 @@
 
 Summary:	%{_pearname} - Integrated Templates
 Name:		php-pear-%{_pearname}
-Version:	1.1.4
+Version:	1.2.1
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
@@ -93,7 +93,4 @@ rm -rf %{buildroot}
 %files
 %defattr(644,root,root,755)
 %{_datadir}/pear/%{_class}/%{_subclass}/*.php
-
 %{_datadir}/pear/packages/%{_pearname}.xml
-
-
