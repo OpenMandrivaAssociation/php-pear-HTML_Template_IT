@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.3.0
-Release:	6
+Release:	7
 Summary:	Integrated Templates
 License:	PHP License
 Group:		Development/PHP
