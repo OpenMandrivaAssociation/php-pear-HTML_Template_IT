@@ -8,7 +8,7 @@ Version:	1.3.0
 Release:	16
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/HTML_Template_IT/
+Url:		https://pear.php.net/package/HTML_Template_IT/
 Source0:	http://download.pear.php.net/package/%{modname}-%{version}.tar.bz2
 BuildArch:	noarch
 BuildRequires:	php-pear
